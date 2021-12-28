@@ -1,23 +1,26 @@
 # Project Templates
- A collection of my project templates to spend less time with setup and more time writing code.
+A collection of my project templates to spend less time with setup and more time writing code.
 
- ## JavaScript
- My setup for NodeJS + JavaScript
+## JavaScript
+Node + JavaScript
 
- ### Setup
- Run `yarn install` inside of the project directory.
+### Setup
+Run `yarn install` inside of the project directory.
 
- ### Usage
- Starting the project: `yarn start`
- Start in development mode: `yarn dev`
-
- ## TypeScript
- My setup for NodeJS + TypeScript
+### Usage
+Starting the project: `yarn start`
  
- ### Setup
- Run `yarn install` inside of the project directory.
+Start in development mode: `yarn dev`
 
- ### Usage
- Starting the project: `yarn start`
- Start in development mode: `yarn dev`
- Compile the project: `yarn build`
+## TypeScript
+Node + TypeScript
+
+### Setup
+Run `yarn install` inside of the project directory.
+
+### Usage
+Starting the project: `yarn start`
+
+Start in development mode: `yarn dev`
+ 
+Compile the project: `yarn build`
