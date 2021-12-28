@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        ".gitignore": true,
+        "**/node_modules": true,
+        "**/yarn.lock": true
+    }
+}

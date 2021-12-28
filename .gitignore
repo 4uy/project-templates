@@ -1,0 +1,10 @@
+# global
+.DS_Store
+
+# javascript
+node_modules/
+yarn.lock
+
+# typescript
+node_modules/
+yarn.lock
