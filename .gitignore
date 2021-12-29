@@ -8,3 +8,6 @@ yarn.lock
 # typescript
 node_modules/
 yarn.lock
+
+# cpp
+build/
