@@ -10,7 +10,7 @@ Run `yarn install` inside of the project directory.
 ### Usage
 Starting the project: `yarn start`
  
-Start in development mode: `yarn dev`
+Start and watch for changes: `yarn watch`
 
 ## TypeScript
 Node + TypeScript
@@ -21,6 +21,6 @@ Run `yarn install` inside of the project directory.
 ### Usage
 Starting the project: `yarn start`
 
-Start in development mode: `yarn dev`
+Start and watch for changes: `yarn watch`
  
 Compile the project: `yarn build`

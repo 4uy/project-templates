@@ -1,5 +1,5 @@
 {
-  "name": "typescript",
+  "name": "project",
   "version": "0.0.0",
   "description": "",
   "main": "index.ts",
@@ -7,7 +7,7 @@
   "license": "",
   "scripts": {
     "start": "ts-node src/index.ts",
-    "dev": "nodemon src/index.ts",
+    "watch": "nodemon src/index.ts",
     "build": "tsc"
   },
   "devDependencies": {
